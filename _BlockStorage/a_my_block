@@ -1,0 +1,11 @@
+{
+    "block_id": "B20170125100542", 
+    "contract_states": {}, 
+    "previous_block_hash": "933bea135564e7c8deaf98c42265599df996b34614470c782ba4b07e4e3c04cd", 
+    "previous_block_id": "a_my_block", 
+    "time_stamp": "20170125100542", 
+    "transactions": [
+        "{\"value_data\": \"{\\\"receiver_address\\\": \\\"192.168.22.73\\\", \\\"coin\\\": \\\"50\\\"}\", \"contract_data\": \"\", \"type\": \"t\", \"sender_address\": \"1CZACXZ6gBrD7BMP1HG9RaDQrnGfxWbmgi\", \"time_stamp\": \"20170125100542\", \"message\": \"d\\\\xab\\\\r\\\\xa3c\\\\x04\\\\xa8\\\\x8f\\\\xd0.\\\\xb4\\\\xe3\\\\x8e\\\\xae\\\\x85\\\\xe7\\\\xba\\\\xf8\\\\xae\\\\x80]HU\\\\xedn\\\\xfa\\\\xec\\\\x08\\\\x9a\\\\x1fp\\\\xc7\\\\xeb\\\\x9c\\\\xe0-*\\\\'w\\\\xa6<\\\\\\\\\\\\xdb\\\\xb6\\\\xa2\\\\xac&s\\\\xda\\\\xf1\\\\x8b;\\\\xbf\\\\xf9\\\\x13\\\\x8a\\\\x96:\\\\xf5~m\\\\xfb\\\\x8cp\", \"ip_address\": \"192.168.22.72\", \"data\": {\"receiver_address\": \"192.168.22.73\", \"coin\": \"50\"}, \"pubkey\": \"3979dba67314d4cd7611bd435f9f2ebaf08d1440d39a7832f10cd66aaa2f38c017702c71c46fb1c54e2844f4670ea6cd0ad59d79c91bf6ddeb8ca6b07a816015\"}\n"
+    ], 
+    "type": "B"
+}
